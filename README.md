@@ -1,2 +1,2 @@
-# Tomato
-Tomato is a responsive and intuitive web application designed to offer a seamless food delivery experience. Built using React, it combines modern design principles with powerful features to provide a smooth and enjoyable user journey, from browsing through food items to placing an order.
+# Airbnb
+This project is a clone of the popular Airbnb platform, developed using React. It features a user-friendly interface that allows users to search for rental properties, view detailed listings, and filter properties based on their preferences.
